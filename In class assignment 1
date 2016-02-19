@@ -1,0 +1,16 @@
+Afomia Abera
+J00725002
+19 Feb 2016
+
+
+
+A(n) ___constructor______ is used in C++ to guarantee the initialization of a class instance.
+A constructor has the _same_ name as the class itself.
+Member functions are sometimes called _____methods______ in other object- oriented languages.
+A(n) __destructor___ is a member function that is automatically called to destroy an object.
+To access a particular member function, the code must list the object name and the name of the function separated from each other by a ___::________.
+A __default___ constructor has no parameters.
+A __tiled___ precedes the destructor name in the declaration.
+A(n) ___inline_________ member function has its implementation given in the class declaration.
+In an array of objects, if the default constructor is invoked, then it is applied to _____each_______ object in the array.
+A constructor is a member function that is _implicit____ invoked whenever a class instance is created.
